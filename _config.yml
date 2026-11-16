@@ -1,4 +1,4 @@
-﻿# =====================================================================================
+# =====================================================================================
 # _config.yml  -  UNICO PUNTO DA CAMBIARE PER CLONARE IL TEMPLATE SU UN NUOVO SITO
 # (mistraltemplate1, vedi CLAUDE.md e PROGETTO_TEMPLATE.md)
 #
@@ -27,13 +27,13 @@ languages: [it, en]
 #   dominio personalizzato (CNAME su GitHub Pages) > nome del repo. Qui NON si scrive.
 # description: testo SEO di default (meta description).
 # "brand" non e' piu' letto da nessuno: lasciato vuoto solo per compatibilita' con vecchi cloni/admin.
-brand: ""
+brand: "Gaming Blog"
 related_posts: 3
 # per_page = elementi per pagina in TUTTE le liste (admin e sito: blog, negozio, pagina categoria). Si cambia da admin > Impostazioni.
 # Il sito impagina con assets/js/paginazione.js (attributo data-per). Valori dell'admin: 10, 20, 50, 100, 200, 500.
 per_page: 20
 email: ""
-description: "Descrizione breve del sito (compare nei motori di ricerca)."
+description: "Blog sui giochi open source: recensioni, guide e novita da provare subito."
 
 # --- TEMA (Minimal Mistakes, caricato da remoto) ----------------------------------------
 # I COLORI veri del sito NON stanno qui ma in _data/tema.json (accento, menu, testo).
