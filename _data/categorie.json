@@ -14,5 +14,9 @@
   {
     "nome": "Enciclopedia",
     "descrizione": "Voci in ordine alfabetico: giochi, generi e termini del gaming."
+  },
+  {
+    "nome": "News",
+    "descrizione": "Novità dal mondo dei giochi: uscite, aggiornamenti e notizie."
   }
 ]
